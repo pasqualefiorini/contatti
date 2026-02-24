@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Carlotta Maria Astengo
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile di commessa
+TEL;TYPE=WORK,VOICE:+393271590533
+EMAIL;TYPE=PREF,INTERNET:carlotta.astengo@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
