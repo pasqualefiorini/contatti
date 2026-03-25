@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Arch. Federica Valentini
+ORG:Geotechnical Design Group Srl
+TITLE:Disegnatore opere strutturali
+TEL;TYPE=WORK,VOICE:+393284180752
+EMAIL;TYPE=PREF,INTERNET:federica.valentini@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
