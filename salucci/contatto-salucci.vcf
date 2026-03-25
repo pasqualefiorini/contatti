@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geol Roberto Salucci
+ORG:Geotechnical Design Group Srl
+TITLE:Consulente specialista
+TEL;TYPE=WORK,VOICE:+393488813537
+EMAIL;TYPE=PREF,INTERNET:r.salucci@tin.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
