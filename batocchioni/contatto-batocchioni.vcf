@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Lorenzo Batocchioni
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile ricerca e sviluppo
+TEL;TYPE=WORK,VOICE:+393381544808
+EMAIL;TYPE=PREF,INTERNET:lorenzo.batocchioni@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
