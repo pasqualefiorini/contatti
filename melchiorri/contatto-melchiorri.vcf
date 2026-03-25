@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geol Fabio Melchiorri
+ORG:Geotechnical Design Group Srl
+TITLE:Consulente specialista
+TEL;TYPE=WORK,VOICE:+393296199070
+EMAIL;TYPE=PREF,INTERNET:f.melchiorri@libero.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
