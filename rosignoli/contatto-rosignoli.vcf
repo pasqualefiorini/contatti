@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Tiziana Rosignoli
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile Amministrativa
+TEL;TYPE=WORK,VOICE:+393381925889
+EMAIL;TYPE=PREF,INTERNET:amministrazione@thesignengineering.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
