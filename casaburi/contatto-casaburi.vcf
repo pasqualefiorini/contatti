@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geol. Luca Casaburi
+ORG:Geotechnical Design Group Srl
+TITLE:Geologo
+TEL;TYPE=WORK,VOICE:+393453443742
+EMAIL;TYPE=PREF,INTERNET:luca.casaburi@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
