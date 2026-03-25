@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geom. Manolo Genziani
+ORG:Geotechnical Design Group Srl
+TITLE:Disegnatore opere strutturali
+TEL;TYPE=WORK,VOICE:+393923834186
+EMAIL;TYPE=PREF,INTERNET:manolo.genziani@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
