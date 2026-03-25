@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Prof. Ing. Salvatore Miliziano
+ORG:Geotechnical Design Group Srl
+TITLE:Direttore Tecnico
+TEL;TYPE=WORK,VOICE:+393351298229
+EMAIL;TYPE=PREF,INTERNET:direzione.tecnica@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
