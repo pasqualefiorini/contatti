@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Arianna Pellumbi
+ORG:Geotechnical Design Group Srl
+TITLE:Ingegnere Geotecnico
+TEL;TYPE=WORK,VOICE:+393404583939
+EMAIL;TYPE=PREF,INTERNET:arianna.pellumbi@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
