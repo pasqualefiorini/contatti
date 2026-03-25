@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Vincenzo De Gori
+ORG:Geotechnical Design Group Srl
+TITLE:Process Engineer
+TEL;TYPE=WORK,VOICE:+393662693355
+EMAIL;TYPE=PREF,INTERNET:vincenzo.degori@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
