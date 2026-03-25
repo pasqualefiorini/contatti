@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Sara Cappelli
+ORG:Geotechnical Design Group Srl
+TITLE:Ingegnere strutturista
+TEL;TYPE=WORK,VOICE:+393289515156
+EMAIL;TYPE=PREF,INTERNET:sara.cappelli@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
