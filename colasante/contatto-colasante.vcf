@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geol. Riccardo Colasante
+ORG:Geotechnical Design Group Srl
+TITLE:Geologo
+TEL;TYPE=WORK,VOICE:+393481458426
+EMAIL;TYPE=PREF,INTERNET:riccardo.colasante@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
