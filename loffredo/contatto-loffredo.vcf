@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Emanuele Loffredo
+ORG:Geotechnical Design Group Srl
+TITLE:Ingegnere Geotecnico
+TEL;TYPE=WORK,VOICE:+393478007728
+EMAIL;TYPE=PREF,INTERNET:emanuele.loffredo@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
