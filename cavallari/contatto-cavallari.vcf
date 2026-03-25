@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Mariangela Cavallari
+ORG:Geotechnical Design Group Srl
+TITLE:Chef
+TEL;TYPE=WORK,VOICE:+393715268732
+EMAIL;TYPE=PREF,INTERNET:ritopaganico@gmail.com
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
