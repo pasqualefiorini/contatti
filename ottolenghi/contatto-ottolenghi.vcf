@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Valentina Ottolenghi
+ORG:Geotechnical Design Group Srl
+TITLE:Ingegnere Geotecnico
+TEL;TYPE=WORK,VOICE:+393404992916
+EMAIL;TYPE=PREF,INTERNET:valentina.ottolenghi@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
