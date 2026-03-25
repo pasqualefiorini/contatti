@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Arch. Paolo Antonini
+ORG:Geotechnical Design Group Srl
+TITLE:Progettista strutturale
+TEL;TYPE=WORK,VOICE:+393478028792
+EMAIL;TYPE=PREF,INTERNET:paolo.antonini@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
