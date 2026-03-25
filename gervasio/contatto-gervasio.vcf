@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Sofia Gervasio
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile di Commessa
+TEL;TYPE=WORK,VOICE:+393285895837
+EMAIL;TYPE=PREF,INTERNET:sofia.gervasio@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
