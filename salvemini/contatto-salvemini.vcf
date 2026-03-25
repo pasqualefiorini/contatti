@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Antonio Salvemini
+ORG:Geotechnical Design Group Srl
+TITLE:Ingegnere Geotecnico-FEM Analyst
+TEL;TYPE=WORK,VOICE:+393515599753
+EMAIL;TYPE=PREF,INTERNET:antonio.salvemini@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
