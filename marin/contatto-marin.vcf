@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Valentina Marin
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile Amministrativa
+TEL;TYPE=WORK,VOICE:+393492847925
+EMAIL;TYPE=PREF,INTERNET:amministrazione@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
