@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geom. Marica Carlucci
+ORG:Geotechnical Design Group Srl
+TITLE:Disegnatore opere strutturali
+TEL;TYPE=WORK,VOICE:+393496235593
+EMAIL;TYPE=PREF,INTERNET:marica.carlucci@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
