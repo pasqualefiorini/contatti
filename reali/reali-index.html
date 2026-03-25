@@ -1,1 +1,89 @@
+<!DOCTYPE html>
+<html class="theme-auto" lang="it">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ing. Lorenzo Reali - GDG Srl</title>
+    <link rel="icon" type="image/x-icon" href="../images/avatar.png">
 
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/brands.css">
+
+    <style>
+      /* CORREZIONE 1: Sfondo bordeaux totale per tutta la pagina */
+      body { background-color: #800020 !important; color: #ffffff !important; }
+
+      /* I pulsanti rimangono neri con bordo chiaro */
+      .button-linked, .button-default, .button-whatsapp {
+        background-color: #000000 !important;
+        color: #ffffff !important;
+        border: 2px solid #ffffff !important;
+      }
+
+      /* Il nome elastico rimane nero come richiesto */
+      h1 div {
+        font-size: clamp(24px, 8vw, 38px) !important;
+        line-height: 1.2;
+        color: #000000 !important;
+        display: block; width: 100%;
+      }
+
+      /* Altri testi bianchi */
+      p, footer, footer a { color: #ffffff !important; }
+    </style>
+</head>
+
+<body>
+    <div style="width: 100%; padding: 20px 0;">
+        <div class="container">
+            <div class="column">
+                <img src="../logo-azienda.png" style="width:500px; display: block; margin: 0 auto;" alt="Logo GDG">
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="column">
+            <img class="avatar avatar--rounded" src="reali.jpg" style="width: 245px; height: 245px;" alt="Foto Ing. Lorenzo Reali">
+            <h1><div>Ing. Lorenzo Reali</div></h1>
+            <p>Responsabile di Commessa</p>
+
+            <div class="button-stack" role="navigation">
+                <a class="button button-default" href="contatto-reali.vcf" download role="button">
+                    <img class="icon" src="../images/icons/generic-email.svg"> Add to contacts
+                </a>
+
+                <a class="button button-linked" href="https://www.linkedin.com/company/geotechnical-design-group-srl/" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/linkedin.svg"> LinkedIn
+                </a>
+
+                <a class="button button-default" href="mailto:lorenzo.reali@gdg-srl.it" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/generic-email.svg"> Email Us
+                </a>
+
+                <a class="button button-default" href="tel:+393400679570" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/generic-phone.svg"> Call Us
+                </a>
+                
+                <a class="button button-whatsapp" href="https://wa.me/+393400679570" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/whatsapp.svg"> WhatsApp
+                </a>
+
+                <a class="button button-default" href="https://maps.app.goo.gl/j3GBQKXnqx41oQX68" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/generic-map.svg"> Get Directions
+                </a>
+
+                <a class="button button-default" href="https://www.geotechnicaldesigngroup.it/" target="_blank" rel="noopener">
+                    <img class="icon" src="../images/icons/generic-website.svg"> Visit Website
+                </a>
+            </div>
+
+            <footer>
+                <a href="../privacy.html">Privacy Policy</a> | GDG Srl - Via Giovanni Andrea Badoero, 67 - 00154 - Roma (RM) - P. iva 13325521006 - USAL8PV - e-mail: amministrazione@gdg-srl.it - tel: +39 3898878380 
+                <a href="https://www.geotechnicaldesigngroup.it/" target="_blank" rel="noopener">Geotechnical Design Group Srl</a>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
