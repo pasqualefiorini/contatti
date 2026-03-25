@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Lorenzo Reali
+ORG:Geotechnical Design Group Srl
+TITLE:Responsabile di Commessa
+TEL;TYPE=WORK,VOICE:+393400679570
+EMAIL;TYPE=PREF,INTERNET:lorenzo.reali@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
