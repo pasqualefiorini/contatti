@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. Simona Sacconi
+ORG:Geotechnical Design Group Srl
+TITLE:Vice Presidente Societario
+TEL;TYPE=WORK,VOICE:+393474526919
+EMAIL;TYPE=PREF,INTERNET:simona.sacconi@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
