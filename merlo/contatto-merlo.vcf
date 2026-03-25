@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Geol. Rossana Merlo
+ORG:Geotechnical Design Group Srl
+TITLE:Geologa
+TEL;TYPE=WORK,VOICE:+393279925564
+EMAIL;TYPE=PREF,INTERNET:rossana.merlo@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
