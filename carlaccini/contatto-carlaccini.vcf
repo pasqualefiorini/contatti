@@ -1,1 +1,9 @@
-
+BEGIN:VCARD
+VERSION:3.0
+FN:Ing. David Carlaccini
+ORG:Geotechnical Design Group Srl
+TITLE:Direttore Tecnico
+TEL;TYPE=WORK,VOICE:+393471262042
+EMAIL;TYPE=PREF,INTERNET:david.carlaccini@gdg-srl.it
+URL:https://www.geotechnicaldesigngroup.it/
+END:VCARD
